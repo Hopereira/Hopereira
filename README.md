@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C8F6&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Hebert+de+Oliveira+Pereira+%F0%9F%91%8B;Um+Desenvolvedor+Full-Stack+do+Brasil;Focado+em+Python%2C+PHP%2C+JavaScript%2C+Node.js...;Cursando+o+6%C2%BA+per%C3%ADodo+de+Engenharia+de+Software!" alt="Typing SVG" /></a>
 </p>
 
-Estou cursando o **6º período do Bacharelado em Engenharia de Software na Estácio de Sá**, buscando ativamente oportunidades para aplicar e expandir meus conhecimentos em desenvolvimento. Minha trajetória profissional é marcada por uma forte capacidade de **solucionar problemas complexos de hardware e software** e uma habilidade notável em **apresentar conceitos técnicos de maneira clara e compreensível** – competências que aprimorei ao longo de anos de experiência prática como **Instrutor de Informática no Cebrac** e como **Técnico de Informática autônomo**. Sou apaixonado por transformar ideias em soluções funcionais e agregar valor através da tecnologia.
+Estou cursando o **6º período do Bacharelado em Eng. de Software na Estácio de Sá**, buscando ativamente oportunidades para aplicar e expandir meus conhecimentos em desenvolvimento. Minha trajetória profissional é marcada por uma forte capacidade de **solucionar problemas complexos de hardware e software** e uma habilidade notável em **apresentar conceitos técnicos de maneira clara e compreensível** – competências que aprimorei ao longo de anos de experiência prática como **Instrutor de Informática no Cebrac** e como **Técnico de Informática autônomo**. Sou apaixonado por transformar ideias em soluções funcionais e agregar valor através da tecnologia.
 
 ---
 
