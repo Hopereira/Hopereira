@@ -89,7 +89,12 @@ Estou cursando o **6º período do Bacharelado em Engenharia de Software na Est�
     * Tecnologias: WordPress, PHP, HTML, CSS, JavaScript.
     * Link: [codechips.com.br](https://codechips.com.br)
     * *(Observação: Código-fonte não disponível publicamente no GitHub)*
-
+* **Curriculo (hopereira.github.io):**
+    * Descrição: Site sobre tecnologia e desenvolvimento desenvolvido integralmente por mim.
+    * Tecnologias: WordPress, PHP, HTML, CSS, JavaScript.
+    * Link: [hopereira.github.io](https://hopereira.github.io/)
+    * * Repositório:[Hopereira/Hopereira.github.io](https://github.com/Hopereira/Hopereira.github.io)
+      
 * **Oficina de Dança (oficinadedanca.com.br):**
     * Descrição: Site para divulgação de aulas de dança, eventos, informações da escola, desenvolvido integralmente por mim.
     * Tecnologias: WordPress, PHP, HTML, CSS, JavaScript.
