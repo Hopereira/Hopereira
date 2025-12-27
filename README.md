@@ -7,8 +7,10 @@ Estou cursando o **7º período do Bacharelado em Engenharia de Software na Est�
 ---
 
 ### 📊 Minhas Estatísticas no GitHub:
+
+
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Hopereira&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Estatísticas GitHub do Hebert"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Hopereira&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="Estatísticas GitHub do Hebert"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hopereira&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Linguagens Mais Usadas pelo Hebert"/>
 </p>
 
@@ -61,7 +63,7 @@ Estou cursando o **7º período do Bacharelado em Engenharia de Software na Est�
 
 ### 📚 Formação Acadêmica:
 
-* **Bacharelado em Engenharia de Software** (cursando 6º período) - Estácio de Sá (Início em 2023 - atualmente) 
+* **Bacharelado em Engenharia de Software** (cursando 7º período) - Estácio de Sá (Início em 2023 - atualmente) 
     * *Principais Disciplinas Cursadas/Em Curso: Introdução à Programação, Estruturas de Dados e Algoritmos, Programação Orientada a Objetos, Engenharia de Software, Arquitetura de Computadores, Desenvolvimento Web, Banco de Dados, Inteligência Artificial, Testes e Qualidade de Software.* [cite: 21]
 * **Tecnologia de Informação e Comunicação** (3º Período - não concluído) - Faetec (2007-2008)
 * **Ensino Médio Completo** - Colégio São José (1993) 
